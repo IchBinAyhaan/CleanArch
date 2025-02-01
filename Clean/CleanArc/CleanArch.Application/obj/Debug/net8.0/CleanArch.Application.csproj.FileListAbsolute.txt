@@ -1,0 +1,6 @@
+C:\Users\Darya\Desktop\Ayhan13\CleanArc\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\Darya\Desktop\Ayhan13\CleanArc\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan13\CleanArc\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\CleanArc\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan13\CleanArc\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\CleanArc\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.sourcelink.json

@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8738D397-CBAB-4BF1-9BD6-3EAEDBE8D515}|CleanArch.API\\CleanArch.API.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8738D397-CBAB-4BF1-9BD6-3EAEDBE8D515}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACDD5D2-7674-4027-9C02-9322B99F86B2}|CleanArch.UnitTests\\CleanArch.UnitTests.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.unittests\\features\\handlers\\product\\createproducthandlermockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACDD5D2-7674-4027-9C02-9322B99F86B2}|CleanArch.UnitTests\\CleanArch.UnitTests.csproj|solutionrelative:cleanarch.unittests\\features\\handlers\\product\\createproducthandlermockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACDD5D2-7674-4027-9C02-9322B99F86B2}|CleanArch.UnitTests\\CleanArch.UnitTests.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.unittests\\features\\handlers\\product\\createproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACDD5D2-7674-4027-9C02-9322B99F86B2}|CleanArch.UnitTests\\CleanArch.UnitTests.csproj|solutionrelative:cleanarch.unittests\\features\\handlers\\product\\createproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738D397-CBAB-4BF1-9BD6-3EAEDBE8D515}|CleanArch.API\\CleanArch.API.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738D397-CBAB-4BF1-9BD6-3EAEDBE8D515}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.persistence\\repositories\\basereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\repositories\\basereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.persistence\\repositories\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\repositories\\productreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.application\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.application\\mappingprofiles\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\mappingprofiles\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.application\\features\\product\\commands\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\features\\product\\commands\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.application\\features\\product\\commands\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\features\\product\\commands\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.persistence\\repositories\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\repositories\\productwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738D397-CBAB-4BF1-9BD6-3EAEDBE8D515}|CleanArch.API\\CleanArch.API.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.api\\middlewares\\customexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738D397-CBAB-4BF1-9BD6-3EAEDBE8D515}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\middlewares\\customexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738D397-CBAB-4BF1-9BD6-3EAEDBE8D515}|CleanArch.API\\CleanArch.API.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738D397-CBAB-4BF1-9BD6-3EAEDBE8D515}|CleanArch.API\\CleanArch.API.csproj|solutionrelative:cleanarch.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.application\\wrappers\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\wrappers\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.application\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.application\\features\\product\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6163CF-B2A9-43B6-A88B-A365FC658760}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\features\\product\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.persistence\\repositories\\basewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E12D09-81BF-4C9F-B371-829556F12833}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\repositories\\basewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.domain\\repositories\\ibasewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\repositories\\ibasewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.domain\\constants\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\constants\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.domain\\repositories\\ibasereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\repositories\\ibasereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.domain\\repositories\\iproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\repositories\\iproductreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.domain\\repositories\\iproductwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\repositories\\iproductwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAD899-8C9B-4E90-92AC-0DD3212B6CCE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACDD5D2-7674-4027-9C02-9322B99F86B2}|CleanArch.UnitTests\\CleanArch.UnitTests.csproj|c:\\users\\darya\\desktop\\ayhan13\\cleanarc\\cleanarch.unittests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACDD5D2-7674-4027-9C02-9322B99F86B2}|CleanArch.UnitTests\\CleanArch.UnitTests.csproj|solutionrelative:cleanarch.unittests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArch.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.API\\appsettings.json",
+              "RelativeToolTip": "CleanArch.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T19:44:13.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductHandlerMockData.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.UnitTests\\Features\\Handlers\\Product\\CreateProductHandlerMockData.cs",
+              "RelativeDocumentMoniker": "CleanArch.UnitTests\\Features\\Handlers\\Product\\CreateProductHandlerMockData.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.UnitTests\\Features\\Handlers\\Product\\CreateProductHandlerMockData.cs",
+              "RelativeToolTip": "CleanArch.UnitTests\\Features\\Handlers\\Product\\CreateProductHandlerMockData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:43:43.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.UnitTests\\Features\\Handlers\\Product\\CreateProductHandlerTests.cs",
+              "RelativeDocumentMoniker": "CleanArch.UnitTests\\Features\\Handlers\\Product\\CreateProductHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.UnitTests\\Features\\Handlers\\Product\\CreateProductHandlerTests.cs",
+              "RelativeToolTip": "CleanArch.UnitTests\\Features\\Handlers\\Product\\CreateProductHandlerTests.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:41:49.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArch.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.API\\Program.cs",
+              "RelativeToolTip": "CleanArch.API\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:27:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "CleanArch.Application\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:56:50.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Repositories\\ProductReadRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\ProductReadRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Repositories\\ProductReadRepository.cs",
+              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\ProductReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:39:20.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CleanArch.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "CleanArch.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:57:48.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Repositories\\BaseReadRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\BaseReadRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Repositories\\BaseReadRepository.cs",
+              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\BaseReadRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:38:52.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\MappingProfiles\\ProductMappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\MappingProfiles\\ProductMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\MappingProfiles\\ProductMappingProfile.cs",
+              "RelativeToolTip": "CleanArch.Application\\MappingProfiles\\ProductMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:19:01.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Features\\Product\\Commands\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Product\\Commands\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Features\\Product\\Commands\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "CleanArch.Application\\Features\\Product\\Commands\\CreateProductCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:52:21.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Features\\Product\\Commands\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Product\\Commands\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Features\\Product\\Commands\\CreateProductHandler.cs",
+              "RelativeToolTip": "CleanArch.Application\\Features\\Product\\Commands\\CreateProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:52:36.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.API\\Middlewares\\CustomExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CleanArch.API\\Middlewares\\CustomExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.API\\Middlewares\\CustomExceptionMiddleware.cs",
+              "RelativeToolTip": "CleanArch.API\\Middlewares\\CustomExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:26:25.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CleanArch.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CleanArch.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:22:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Wrappers\\Response.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Wrappers\\Response.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Wrappers\\Response.cs",
+              "RelativeToolTip": "CleanArch.Application\\Wrappers\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:20:34.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Repositories\\ProductWriteRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\ProductWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Repositories\\ProductWriteRepository.cs",
+              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\ProductWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:39:33.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "CleanArch.Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:17:33.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "CleanArch.Application\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:14:37.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArch.Persistence\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "CleanArch.Persistence\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:59:23.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "CleanArch.Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:52:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Repositories\\BaseWriteRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\BaseWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Persistence\\Repositories\\BaseWriteRepository.cs",
+              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\BaseWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:39:08.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Constants\\ProductType.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Constants\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Constants\\ProductType.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Constants\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:31:31.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBaseWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Repositories\\IBaseWriteRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Repositories\\IBaseWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Repositories\\IBaseWriteRepository.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Repositories\\IBaseWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:25:56.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:15:36.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBaseReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Repositories\\IBaseReadRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Repositories\\IBaseReadRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Repositories\\IBaseReadRepository.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Repositories\\IBaseReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:25:43.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Repositories\\IProductReadRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Repositories\\IProductReadRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Repositories\\IProductReadRepository.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Repositories\\IProductReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:26:47.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Repositories\\IProductWriteRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Repositories\\IProductWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Repositories\\IProductWriteRepository.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Repositories\\IProductWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:27:01.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:15:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.UnitTests\\Usings.cs",
+              "RelativeDocumentMoniker": "CleanArch.UnitTests\\Usings.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\CleanArc\\CleanArch.UnitTests\\Usings.cs",
+              "RelativeToolTip": "CleanArch.UnitTests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:24:02.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
